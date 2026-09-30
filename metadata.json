@@ -1,0 +1,6 @@
+{
+  "name": "BizConsult AI",
+  "description": "AI-Powered Business Consultant providing sales analytics, predictive trend insights, customer segmentation, and Gemini-driven strategic recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
